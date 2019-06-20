@@ -1,4 +1,4 @@
-#CIVILite
+# CIVILite
 
 Author: Glenn Joseph
 
@@ -52,13 +52,14 @@ Known Errors:
 Implementation Details:
 1. Turn on your computer
 2. Open the python shell
-3. Click "File", then "Open" near the top of the shell window, and select Simon_Joseph_CA.py
+3. Click "File", then "Open" near the top of the shell window, and select CiviLite.py
 4. Click the open button next to the file name
 5. Click F5 on the keyboard to start the program
+
 6. Enter "S" to start the program  
 
 Additional Files:
-    Other than CiviLite.py and CiviLite_README.txt (this file), no extra files are 
+    Other than CiviLite.py and CiviLite_README.md (this file), no extra files are 
 needed
 
 Additional Considerations:
