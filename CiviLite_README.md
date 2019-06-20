@@ -15,7 +15,8 @@ Problem Description:
 The ICS-3U1 Culminating activity is a practical test of all that was learned so far in the course. 
 A game or useful program is created using all the features found in the course: if statements, lists, 
 strings, variables, and any other pertinent data structure or holder. The description is relatively 
-open ended, so 
+open ended, so my project revolved around a text based version of Sid Meier's CIVILIZATION, complete
+with a text-based map that updates every turn.
 
 Program Assumptions: 
 
