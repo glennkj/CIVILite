@@ -5,9 +5,8 @@ Author: Glenn Joseph
 Class: ICS-3U1-02
 
 Date: May 22, 2019
-Version: 1.0.0
 
-Unit: All Encompassing CA!
+Version: 1.0.0
 
 Programming Language: 3.4.4.
 
