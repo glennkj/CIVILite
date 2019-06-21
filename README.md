@@ -60,7 +60,7 @@ Implementation Details:
 
 Additional Files:
 
-Other than CiviLite.py and CiviLite_README.md (this file), no extra files are 
+Other than CiviLite.py and README.md (this file), no extra files are 
 needed
 
 Additional Considerations:
