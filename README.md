@@ -1,8 +1,4 @@
 # CIVILite
-Author: Glenn Joseph
-
-Class: ICS-3U1-02
-
 Date: May 22, 2019
 
 Version: 1.0.0
@@ -45,23 +41,6 @@ the game. The program also can't display unit battle information, nor can it dis
 only displaying when a civ declares, loses, or wins a war. Finally, depending on the civ's visibility, they can
 declare war on another civ even if they can't see them.
 
-Known Errors:
-
-The only known error occurs when the user enters ctrl + c into the compiler.
-
-Implementation Details:
-
-1. Turn on your computer
-2. Open the python shell
-3. Click "File", then "Open" near the top of the shell window, and select CiviLite.py
-4. Click the open button next to the file name
-5. Click F5 on the keyboard to start the program
-6. Enter "S" to start the program  
-
-Additional Files:
-
-Other than CiviLite.py and README.md (this file), no extra files are 
-needed
 
 Additional Considerations:
 
