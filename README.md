@@ -6,7 +6,7 @@ object-oriented-programming principles, particularly the restriction of classes,
 not allowed to be used, so repeated function calls for specific objects were used in place of a class. As well
 The entire project had to be completed using python only, and no external modules.
 
-Problem Description: 
+###Problem Description: 
 
 The ICS-3U1 Culminating activity is a practical test of all that was learned so far in the course. 
 A game or useful program is created using all the features found in the course: if statements, lists, 
@@ -14,12 +14,12 @@ strings, variables, and any other pertinent data structure or holder. The descri
 open ended, so my project revolved around a text based version of Sid Meier's CIVILIZATION, complete
 with a text-based map that updates every turn.
 
-Program Assumptions: 
+###Program Assumptions: 
 
 User must have a computer with a running Python interpreter with the Python 3.4.4., a 
 keyboard for commands and inputs, and a monitor to display the terminal.
 
-Features of Program: 
+###Features of Program: 
 
 Program features a full menu experience with a help, quit and start selections, each having
 options that can be interacted with, particularly a sub-menu for the help section which differentiates help 
@@ -31,7 +31,7 @@ their own civilization. The user's civilization has statuses for population, foo
 unit damage, and the capital's health, which each contribute to winning. The program also features checking
 instances for each user input, both for general validity and for gameplay/map validity.
 
-Restrictions:
+###Restrictions:
 
 Gameplay restrictions include that you can't wage war on two civilizations at the same time, units
 cannot move diagonally, units cannot move onto CPU civilization's territory without waging war, CPU civilizations
