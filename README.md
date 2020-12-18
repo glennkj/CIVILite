@@ -1,7 +1,7 @@
 # CIVILite
 
 ## Note About the Project
-The restrictions given when creating this program outlined heavy limitations on the usage of
+The restrictions given when creating this program outlined heavy limitations on the usage of multiple files and
 object-oriented-programming principles, particularly the restriction of classes, as uniquely defined classes were
 not allowed to be used, so repeated function calls for specific objects were used in place of a class. 
 Additionally the entire project had to be completed using python only, and no external modules.
