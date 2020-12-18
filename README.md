@@ -34,10 +34,6 @@ instances for each user input, both for general validity and for gameplay/map va
 ### Restrictions:
 
 Gameplay restrictions include that you can't wage war on two civilizations at the same time, units
-cannot move diagonally, units cannot move onto CPU civilization's territory without waging war, CPU civilizations
-cannot react in a meaningful way to war, if you enter a unit order greater than 2 characters, the program only
-intakes the first 2 (only first character if entrance is "S" or "s"), when the user finds another civ, they don't
-see the territory they expand into, unless they go back to that civ, and you have to finish your turn if you beat
-the game. The program also can't display unit battle information, nor can it display capital battle information,
-only displaying when a civ declares, loses, or wins a war. Finally, depending on the civ's visibility, they can
-declare war on another civ even if they can't see them.
+cannot move diagonally, units cannot move onto CPU civilization's territory without waging war, if you enter a 
+unit order greater than 2 characters, and the program only intakes the first 2 (only first character if entrance is 
+"S" or "s"), and you have to finish your turn if you beat the game. 
