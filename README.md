@@ -1,9 +1,10 @@
 # CIVILite
-Date: May 22, 2019
 
-Version: 1.0.0
-
-Programming Language: 3.4.4.
+## Note About the Project
+The restrictions given when creating this program outlined heavy limitations on the usage of
+object-oriented-programming principles, particularly the restriction of classes, as uniquely defined classes were
+not allowed to be used, so repeated function calls for specific objects were used in place of a class. As well
+The entire project had to be completed using python only, and no external modules.
 
 Problem Description: 
 
@@ -40,12 +41,3 @@ see the territory they expand into, unless they go back to that civ, and you hav
 the game. The program also can't display unit battle information, nor can it display capital battle information,
 only displaying when a civ declares, loses, or wins a war. Finally, depending on the civ's visibility, they can
 declare war on another civ even if they can't see them.
-
-
-Additional Considerations:
-
-The restrictions given when creating this program outlined heavy limitations on the usage of
-object-oriented-programming principles, particularly the restriction of classes, as uniquely defined classes were
-not allowed to be used, so repeated function calls for specific objects were used in place of a more useful class.
-As well, modules and extra files could not be used-outside of the python source code and this file- due to 
-restrictions present in the software available at the school. 
